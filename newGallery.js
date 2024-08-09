@@ -45,7 +45,7 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "최승민 ♥ 박영주의 모바일 청첩장",
+        title: "송낙현 ♥ 최윤정의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
         imageUrl: "https://i.imgur.com/Id0xiK7.png",
         imageWidth: 1200,
