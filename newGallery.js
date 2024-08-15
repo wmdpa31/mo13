@@ -51,16 +51,16 @@ window.onload = () => {
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo12.luvle.co.kr",
-          webUrl: "https://mo12.luvle.co.kr",
+          mobileWebUrl: "https://mo13.luvle.co.kr",
+          webUrl: "https://mo13.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo12.luvle.co.kr",
-            webUrl: "https://mo12.luvle.co.kr",
+            mobileWebUrl: "https://mo13.luvle.co.kr",
+            webUrl: "https://mo13.luvle.co.kr",
           },
         },
       ],
